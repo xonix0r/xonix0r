@@ -2,6 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=xonix0r&style=flat-square&color=blue" alt="" />
 
 <h1>
-  hey there
+  Hello, Привет, नमस्ते
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>

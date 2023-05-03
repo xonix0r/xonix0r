@@ -27,3 +27,7 @@ You can reach me via email xonix0r@proton.me
   
   
   </div>
+
+# My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xonix0r&theme=dark&background=000000)](https://git.io/streak-stats)

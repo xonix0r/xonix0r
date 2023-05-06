@@ -11,7 +11,7 @@
 
 ### :man_technologist: About Me:
 
-I am a Penetration Tester and Network Engineer from the USA.
+I am a Penetration Tester, Network Engineer, and Software Engineer from the USA.
 
 You can reach me via email xonix0r@proton.me
 

@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=xonix0r&style=flat-square&color=blue" alt="" />
 
 <h1>
-  Hello, Привет, नमस्ते
+  Hello, Привет, नमस्ते, Hallo
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 

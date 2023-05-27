@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=xonix0r&style=flat-square&color=blue" alt="" />
 
 <h1>
-  Hello, السلام عليكم ,Привет, नमस्ते, Hallo, שָׁלוֹם   
+  Hello, السلام عليكم ,Привет, नमस्ते, Hallo 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -23,7 +23,9 @@ Languages and Tools :
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
-  
+   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;  
+   <img src"https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="RUST" alt="RUST" width="40" height="40"/>&nbsp;
+   <img src"https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TF" alt="TF" width="40" height="40"
   
   </div>
 

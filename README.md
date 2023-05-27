@@ -11,24 +11,12 @@
 
 ### :man_technologist: About Me:
 
-I am a Penetration Tester, Network Engineer, and Software Engineer..
+I am a Penetration Tester, Network Engineer, Data Scientist, and Software Engineer..
 
 You can reach me via email xonix0r@proton.me
 Instagram: @xonixor
 Twitter: @xonix0r
 
-Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" alt="BASH" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;  
-   <img src"https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="RUST" alt="RUST" width="40" height="40"/>&nbsp;
-   <img src"https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TF" alt="TF" width="40" height="40"/>&nbsp;
-  </div>
 
 # My Stats:
 

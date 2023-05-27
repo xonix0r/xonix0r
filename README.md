@@ -25,7 +25,7 @@ Languages and Tools :
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;  
    <img src"https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="RUST" alt="RUST" width="40" height="40"/>&nbsp;
-   <img src"https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TF" alt="TF" width="40" height="40"
+   <img src"https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TF" alt="TF" width="40" height="40"/>&nbsp;
   
   </div>
 
